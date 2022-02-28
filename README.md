@@ -8,5 +8,5 @@ Specifically, results for those strategies were demonstrated for two different c
 
 
 # Thesis
-You can find the whole thesis [here](https://github.com/Kiliantae/Master-Thesis/blob/main/Masterthesis.pdf).
-All code that we used for the thesis is available in this repository.
+You can find the whole thesis [here](https://github.com/Kiliantae/Master-Thesis/blob/main/Masterthesis.pdf). \\
+All code that I used for the thesis is available in this repository.
